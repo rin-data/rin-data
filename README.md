@@ -24,18 +24,15 @@ When I'm not working with data, I enjoy learning new skills and exploring small 
       
 ## 🔭 What I've Recently Worked On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Built demand forecasting, inventory optimization, and capacity planning models using Excel solver and simulation techniques to improve operational decision-making.  
+- **Project B:** Simulated coffee shop queue systems using waiting line analysis to evaluate efficiency and service levels.
+- **Project C:** Applied data wrangling, exploratory data analysis, and visualization techniques in R on business datasets to generate descriptive and predictive insights.
+- **Application Development:** Designed and developed a Python-based savings calculator app to compare investment returns and support financial decision-making.
 
 ## 🌱 Recently Learned 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- Forecasting, queueing simulation, Monte Carlo simulation, and linear programming for operations and business analytics.
+- Data preparation, statistical modeling, predictive analysis, and dashboard/reporting tools including R, SQL, Power BI, and Excel Solver.
 
 #### Data Analysis & Visualization
 <p>
@@ -43,7 +40,7 @@ When I'm not working with data, I enjoy learning new skills and exploring small 
   <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/R-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=R&logoColor=white" alt="R Skill Badge">
 </p>
 
 #### Programming
