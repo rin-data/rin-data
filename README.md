@@ -27,7 +27,6 @@ When I'm not working with data, I enjoy learning new skills and exploring small 
 - **Project A:** Built demand forecasting, inventory optimization, and capacity planning models using Excel solver and simulation techniques to improve operational decision-making.  
 - **Project B:** Simulated coffee shop queue systems using waiting line analysis to evaluate efficiency and service levels.
 - **Project C:** Applied data wrangling, exploratory data analysis, and visualization techniques in R on business datasets to generate descriptive and predictive insights.
-- **Application Development:** Designed and developed a Python-based savings calculator app to compare investment returns and support financial decision-making.
 
 ## 🌱 Recently Learned 
 
