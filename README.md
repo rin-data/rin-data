@@ -22,11 +22,11 @@ When I'm not working with data, I enjoy learning new skills and exploring small 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🌐 Check Out My Full Portfolio Website](https://rin-data.github.io/)
       
-## 🔭 What I've Recently Worked On 
+## 🔭 Projects I've Recently Worked On 
 
-- **Project A:** Built demand forecasting, inventory optimization, and capacity planning models using Excel solver and simulation techniques to improve operational decision-making.  
-- **Project B:** Simulated coffee shop queue systems using waiting line analysis to evaluate efficiency and service levels.
-- **Project C:** Applied data wrangling, exploratory data analysis, and visualization techniques in R on business datasets to generate descriptive and predictive insights.
+- **Operations Management:** Built demand forecasting, inventory optimization, and capacity planning models using Excel solver and simulation techniques to improve operational decision-making.  
+- **Operations Management:** Simulated coffee shop queue systems using waiting line analysis to evaluate efficiency and service levels.
+- **Data Analytics Project:** Applied data wrangling, exploratory data analysis, and visualization techniques in R on business datasets to generate descriptive and predictive insights.
 
 ## 🌱 Recently Learned 
 
